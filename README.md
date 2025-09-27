@@ -1,4 +1,13 @@
 <h1 align="center">🌸 Hey there, I'm so glad you're here!</h1>
+🎯 Aspiring Data Analyst | 📊 Excel • SQL • Power BI • Tableau • Python | ☁️ Azure • AWS  
+
+---
+
+## 🧠 About Me
+
+I'm a **data enthusiast** passionate about turning raw data into actionable insights. As a fresher in the field, I'm constantly learning and building real-world projects using tools like **Power BI, Tableau, Python, SQL**, and cloud platforms like **Azure and AWS**.
+
+🔍 I love solving problems with data and creating dashboards that tell impactful stories.
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
