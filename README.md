@@ -1,7 +1,8 @@
-<h1 align="center">Hi 👋, I'm Srishti Kashyap</h1>
+<h1 align="center">🌸 Hey there, I'm so glad you're here!</h1>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kashyapsrishti4) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/srishti-kashyap-38b968253) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kashyapsrishti383@gmail.com) 
